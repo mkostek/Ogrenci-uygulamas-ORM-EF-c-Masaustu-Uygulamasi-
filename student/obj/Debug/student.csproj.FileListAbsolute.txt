@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\Debug\student.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Debug\student.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Debug\student.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Debug\student.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\Debug\student.exe
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\Debug\student.pdb
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\Debug\EntityFramework.dll
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\Debug\EntityFramework.xml
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Debug\student.exe
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Debug\student.pdb

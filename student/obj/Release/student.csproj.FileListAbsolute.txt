@@ -1,0 +1,4 @@
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\Release\student.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Release\student.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Release\student.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\Release\student.csproj.GenerateResource.Cache

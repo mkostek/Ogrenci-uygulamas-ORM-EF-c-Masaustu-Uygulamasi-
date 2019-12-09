@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\x86\Release\student.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\x86\Release\student.exe
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\x86\Release\student.pdb
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\x86\Release\EntityFramework.dll
+c:\users\asus\documents\visual studio 2012\Projects\student\student\bin\x86\Release\EntityFramework.xml
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\x86\Release\student.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\x86\Release\student.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\x86\Release\student.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\x86\Release\student.exe
+c:\users\asus\documents\visual studio 2012\Projects\student\student\obj\x86\Release\student.pdb
